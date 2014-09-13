@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  password: MyString
+  spy_games: 1
+  total_games: 1
+  games_won: 1
+
+two:
+  name: MyString
+  password: MyString
+  spy_games: 1
+  total_games: 1
+  games_won: 1

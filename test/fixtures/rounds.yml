@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  leader_id: 1
+  num_approve: 1
+  num_players: 1
+  num_pass: 1
+  game_id: 1
+
+two:
+  leader_id: 1
+  num_approve: 1
+  num_players: 1
+  num_pass: 1
+  game_id: 1
